@@ -1,5 +1,5 @@
 {
-    "name": "nex/yii2-chosen",
+    "name": "neovash23/yii2-chosen",
     "type": "yii2-extension",
     "description": "Bootstrap Chosen widget for Yii2",
     "keywords": ["yii2", "extension", "widget", "chosen", "bootstrap", "bootstrap 3"],
@@ -10,6 +10,11 @@
             "name": "Roman Ovchinnikov",
             "email": "nex.software@gmail.com",
             "homepage": "https://github.com/RomeroMsk"
+        },
+        {
+            "name": "Mark Orosa",
+            "email": "neovash23@gmail.com",
+            "homepage": "https://github.com/neovash23"
         }
     ],
     "require": {
@@ -18,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "nex\\chosen\\": ""
+            "neovash23\\chosen\\": ""
         }
     }
 }

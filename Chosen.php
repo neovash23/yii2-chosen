@@ -4,7 +4,7 @@
  * @link https://github.com/RomeroMsk
  * @version 1.0.0
  */
-namespace nex\chosen;
+namespace neovash23\chosen;
 
 use Yii;
 use yii\helpers\ArrayHelper;

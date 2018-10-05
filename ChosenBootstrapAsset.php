@@ -4,7 +4,7 @@
  * @link https://github.com/ezoterik
  * @version 1.0.0
  */
-namespace nex\chosen;
+namespace neovash23\chosen;
 
 use yii\web\AssetBundle;
 
@@ -25,6 +25,6 @@ class ChosenBootstrapAsset extends AssetBundle
 
     public $depends = [
         'yii\bootstrap\BootstrapAsset',
-        'nex\chosen\ChosenAsset',
+        'neovash23\chosen\ChosenAsset',
     ];
 }
